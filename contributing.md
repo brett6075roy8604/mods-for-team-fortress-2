@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Mod Manager](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/mods-for-team-fortress-2)
+[![Download Mod Manager](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/mods-for-team-fortress-2)
 
 </div>
 
@@ -78,7 +78,7 @@ The **TF2 Mod-Manager Pro** is a specialized local utility designed for the mode
 
 <div align="center">
 
-[![Download Mod Manager](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/mods-for-team-fortress-2)
+[![Download Mod Manager](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/mods-for-team-fortress-2)
 
 </div>
 
@@ -101,7 +101,7 @@ The **TF2 Mod-Manager Pro** is a specialized local utility designed for the mode
 
 <div align="center">
 
-[![Download Mod Manager](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/mods-for-team-fortress-2)
+[![Download Mod Manager](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/mods-for-team-fortress-2)
 
 **Version 2026.04 Mercenary** — *See you on the Battlefield.* 🎖️
 
